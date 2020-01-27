@@ -1,0 +1,3 @@
+- artilery
+- graphical menu
+- projectile sprites
